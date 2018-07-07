@@ -1,13 +1,8 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
 	"files.exclude": {
 		"**/.git": true,
+		"**/.vscode": true,
 		"**/bin": true,
 		"**/obj": true
 	},
-	"settings": {}
 }
